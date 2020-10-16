@@ -2,9 +2,9 @@ from tkinter import *
 root=Tk()
 
 def printname():
-    print("My name is uttam")
+    print("This is command project")
 
-button = Button(root,text="name",command=printname)
+button = Button(root,text="name 1",command=printname)
 button.pack()
 
 root.mainloop()
