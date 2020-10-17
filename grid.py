@@ -7,8 +7,8 @@ lebel_2=Label(root,text="UserPassword")
 entry_1=Entry(root)
 entry_2=Entry(root)
 
-lebel_1.grid(row=0)
-lebel_2.grid(row=1)
+lebel_1.grid(row=1)
+lebel_2.grid(row=0)
 entry_1.grid(row=0,column=1)
 entry_2.grid(row=1,column=2)
 
