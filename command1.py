@@ -1,6 +1,6 @@
 from tkinter import *
 root=Tk()
-root.geometry("700x400")
+root.geometry("700x600")
 def printname(event):
     print("My name is uttam")
 
