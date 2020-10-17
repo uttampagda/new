@@ -1,6 +1,6 @@
 from tkinter import *
 root = Tk()
-root.geometry("750x450")
+root.geometry("750x40")
 one= Label(root,text="One",fg="white",bg="blue")
 one.pack()
 two= Label(root,text="two",fg="black",bg="black")
